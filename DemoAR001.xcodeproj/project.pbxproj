@@ -16,6 +16,7 @@
 		F4529C2426960F0700BA83A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4529C2226960F0700BA83A8 /* LaunchScreen.storyboard */; };
 		F4529C2F26960F0800BA83A8 /* DemoAR001Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4529C2E26960F0800BA83A8 /* DemoAR001Tests.swift */; };
 		F4529C3A26960F0800BA83A8 /* DemoAR001UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4529C3926960F0800BA83A8 /* DemoAR001UITests.swift */; };
+		F4529C4B2696141400BA83A8 /* BlackCockpit.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F4529C4A2696141400BA83A8 /* BlackCockpit.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F4529C3526960F0800BA83A8 /* DemoAR001UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoAR001UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4529C3926960F0800BA83A8 /* DemoAR001UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoAR001UITests.swift; sourceTree = "<group>"; };
 		F4529C3B26960F0800BA83A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4529C4A2696141400BA83A8 /* BlackCockpit.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = BlackCockpit.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F4529C1626960F0500BA83A8 /* SceneDelegate.swift */,
 				F4529C1826960F0500BA83A8 /* ViewController.swift */,
 				F4529C1A26960F0500BA83A8 /* Main.storyboard */,
+				F4529C4A2696141400BA83A8 /* BlackCockpit.usdz */,
 				F4529C2026960F0700BA83A8 /* Assets.xcassets */,
 				F4529C2226960F0700BA83A8 /* LaunchScreen.storyboard */,
 				F4529C2526960F0700BA83A8 /* Info.plist */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4529C4B2696141400BA83A8 /* BlackCockpit.usdz in Resources */,
 				F4529C2426960F0700BA83A8 /* LaunchScreen.storyboard in Resources */,
 				F4529C2126960F0700BA83A8 /* Assets.xcassets in Resources */,
 				F4529C1C26960F0500BA83A8 /* Main.storyboard in Resources */,
